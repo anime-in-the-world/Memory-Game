@@ -3,5 +3,8 @@
     height: 500px;
     display: flex;
     flex-wrap: wrap;
+}
 
+body {
+    background-color: rgb(23, 24, 32);
 }
